@@ -1,20 +1,16 @@
-## Hi there, I'm Lorelaine! 👋
+## 👋 Olá, eu sou a Lorelaine!
 
-<!--
-# 👋 Olá, eu sou a Lorelaine!
-
-🎯 Analista de Dados em transição | Power BI | SQL | Excel Avançado | Inteligência de Mercado  
+🎯 Analista de Dados | Power BI | SQL | Inteligência de Mercado  
 📍 Maricá, RJ – Brasil  
 🌐 [LinkedIn](https://www.linkedin.com/in/lorelaine-cherem) | 📬 lorelaine@outlook.com.br
 
 ---
 
-Sou apaixonada por dados, insights e transformação digital.  
-Depois de mais de 10 anos atuando com marketing, branding e estratégia digital, decidi migrar para o mundo da análise de dados, onde posso unir minha bagagem criativa com uma abordagem orientada por evidências.
+Sou apaixonada por dados, insights e transformação digital. Após mais de 10 anos atuando com marketing, branding e estratégia digital, decidi migrar para o mundo da análise de dados, onde posso unir minha bagagem criativa com uma abordagem orientada por evidências.
 
 🛠️ **Atualmente trabalhando com:**
 - Power BI
-- SQL e Python para análise de dadoa
+- SQL e Python para análise de dados
 - Excel e Power Query
 - Análise de mercado e indicadores
 - Projetos com metodologia ágil (Scrum e Kanban)
@@ -28,12 +24,4 @@ Depois de mais de 10 anos atuando com marketing, branding e estratégia digital,
 
 ---
 
-### 🚀 Projetos em destaque
-🔹 [Dashboard de Vendas – Power BI](https://github.com/seuusuario/dashboard-vendas-powerbi)  
-🔹 [Análise de Dados Spotify – Python](https://github.com/seuusuario/analise-spotify-python)  
-🔹 [Métricas de Mídias Sociais](https://github.com/seuusuario/metricas-midia-social)  
-
----
-
-✨ Em constante aprendizado.  
-
+✨ Em constante aprendizado.
